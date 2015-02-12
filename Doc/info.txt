@@ -2,8 +2,5 @@ This is a test project
 This is an old project
 This is a new project
 
-<<<<<<< HEAD
 This is your project
-=======
 This is my project
->>>>>>> origin/eric1
