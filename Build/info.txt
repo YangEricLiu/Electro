@@ -1,2 +1,7 @@
 This is a test project
+<<<<<<< HEAD
+test build
+build 11
+=======
 build is fail
+>>>>>>> origin/master
