@@ -1,26 +1,4 @@
 This is a test project
-<<<<<<< HEAD
 test build
 build 11
-=======
 build is fail
->>>>>>> origin/master
-
-
-privotal tracker abc
-ttt 99-1 123
-
-456 9999
-fix
-test fix command
-aaaaa
-closed
-
-resolved
-good luck
-are you ok??
-fix 123123
-
-closed123
-
-123123
